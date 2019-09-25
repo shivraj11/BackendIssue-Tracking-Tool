@@ -1,12 +1,12 @@
 {
-  "name": "chatbackednew",
+  "name": "Backend-Issue-tracker-tool",
   "version": "1.0.0",
   "description": "Backend for issue tracker application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "shivaraja",
+  "author": "shivraj singh deopa",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
