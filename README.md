@@ -3,7 +3,7 @@ This project was generated with Node.js version 8.12.0
 
 ## Getting Started
 ### Documentation
-#### [Apidoc](http://apiitt-apidocs.shivrajdeopa.com/)       
+#### [Apidoc](apidocs-itt.shivrajdeopa.com/)       
 
 ### Prerequisites
 
